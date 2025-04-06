@@ -1,6 +1,9 @@
 # Información sobre cómo se realizó el proyecto
 Este proyecto es como un juego interactivo que usa la cámara de tu computadora o dispositivo para seguir los movimientos de tus manos en tiempo real. Usamos una librería llamada **MediaPipe** que nos permite rastrear las manos, y con eso el sistema te permite manipular unas pelotas virtuales en la pantalla. La idea es que, con tus gestos, puedas mover las pelotas, agarrarlas o incluso eliminarlas, todo de manera dinámica y bastante divertida.
 
+#Link del video 
+https://drive.google.com/file/d/11yGEwZydtCWefIzYaxtAhdzfzWfQeM0P/view?usp=sharing
+
 # Estructura General del Proyecto
 
 # rastreador_mano.py
